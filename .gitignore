@@ -1,0 +1,31 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+
+venv/
+.venv/
+env/
+
+# IDE
+
+.vscode/
+
+# Large video files
+
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# YOLO model weights
+
+*.pt
+
+# Temporary files
+
+*.tmp
+*.log
